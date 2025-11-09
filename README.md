@@ -10,12 +10,6 @@
 
 ###
 
-<p align="left">
-✨ Creating cool stuff (and some bugs 😅) since 2022<br>
-📚 I'm currently learning more about <strong>advanced .NET backend systems</strong> and <strong>React performance optimization</strong><br>
-🎯 Goals: Build scalable web apps and contribute to open-source projects<br>
-🎲 Fun fact: I debug with music on 🎧
-</p>
 
 ###
 
