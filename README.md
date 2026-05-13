@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Ali Hatem</strong> and I'm a <strong>Full Stack Developer (Java & React)</strong> from Egypt 🇪🇬</p>
+<p align="left">My name is <strong>Ali Hatem</strong> </p>
 
 ###
 
