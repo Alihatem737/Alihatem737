@@ -8,9 +8,6 @@ My name is <strong>Ali Hatem</strong>
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
