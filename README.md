@@ -1,25 +1,16 @@
-```md
 <h1 align="left">Hey 👋</h1>
 
-<p align="left">
-My name is <strong>Ali Hatem</strong>
-</p>
+###
 
----
+<p align="left">My name is <strong>Ali Hatem</strong> </p>
 
-<h2 align="left">📊 GitHub Stats</h2>
+###
 
-<div align="center">
+<h2 align="left">I code with</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alihatem737&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
-
----
-
-<h2 align="left">💻 I code with</h2>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -45,4 +36,3 @@ My name is <strong>Ali Hatem</strong>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
-```
