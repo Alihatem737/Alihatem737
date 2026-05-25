@@ -6,6 +6,8 @@
 
 ###
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=old-project&langs_count=6" />
+
 <h2 align="left">I code with</h2>
 
 ###
