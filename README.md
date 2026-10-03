@@ -4,8 +4,12 @@
 </h2>
 
 ### 👨🏻‍💻 About Me
+
 <p align="left">
-💻 Full Stack Developer <br> • 🎓 FCIS Mansoura University <br> • 🌱 Learning Full Stack Development <br>• 🎬 Video Editor
+💻 Full Stack Developer <br>
+• 🎓 FCIS Mansoura University <br>
+• 🌱 Learning Full Stack Development <br>
+• 🎬 Video Editor
 </p>
 
 
@@ -13,49 +17,40 @@
 
 #### Backend
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=openjdk) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat\&logo=springboot) 
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat\&logo=springsecurity) 
-![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat\&logo=hibernate) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat\&logo=microsoftsqlserver)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)
 
 #### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 
 #### Tools
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat\&logo=postman) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visualstudiocode) 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat\&logo=intellijidea)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
 
 #### Creative
 
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat\&logo=adobepremierepro) 
-![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat\&logo=adobeaftereffects)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)
+![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects)
 
 ### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alihatem737&theme=github-compact" width="100%"/>
-</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=algolia"/>
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alihatem737&theme=algolia"/>
 </p>
-
-
-
-
-
 
 
 ### 🤝 Connect With Me
