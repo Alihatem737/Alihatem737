@@ -1,3 +1,4 @@
+
 <h2>
  <br> 👋 Hey there! I'm <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&vCenter=true&repeat=true&width=180&height=35&lines=Ali+Hatem" />
@@ -8,10 +9,8 @@
 <p align="left">
 💻 Full Stack Developer <br>
 • 🎓 FCIS Mansoura University <br>
-• 🌱 Learning Full Stack Development <br>
-• 🎬 Video Editor
+• 🌱 Learning Full Stack Development
 </p>
-
 
 ### 🛠 Tech Stack
 
@@ -38,11 +37,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
-
-#### Creative
-
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)
-![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects)
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
 
 ### ⚙️ GitHub Analytics
 
@@ -51,7 +46,6 @@
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alihatem737&theme=algolia"/>
 </p>
-
 
 ### 🤝 Connect With Me
 
