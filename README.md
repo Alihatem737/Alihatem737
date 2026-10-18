@@ -39,13 +39,22 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
 
+
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=algolia"/>
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alihatem737&theme=algolia"/>
+  <img
+    align="top"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alihatem737&layout=compact&theme=algolia&size_weight=0&count_weight=1&langs_count=10&card_width=495"
+  />
+  <img
+    align="top"
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Alihatem737&theme=algolia&card_width=495&card_height=190"
+  />
 </p>
+
 
 ### 🤝 Connect With Me
 
